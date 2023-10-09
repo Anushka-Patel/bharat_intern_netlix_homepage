@@ -1,1 +1,2 @@
-# bharat_intern_netlix_homepage
+netflix_homepage_at_Bharat_Intern
+using html and css
